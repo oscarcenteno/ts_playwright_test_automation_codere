@@ -1,0 +1,25 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "allowJs": true,
+        "target": "es6",
+        "checkJs": true,
+        "noEmit": true,
+        "moduleResolution": "node",
+        "resolveJsonModule": true,
+        "esModuleInterop": true,
+        "types": [
+            "node",
+        ]
+    },
+    "include": [
+        "**/*.js",
+        "**/*.ts"
+, "playwright/ci.config.ts1"    ],
+    "exclude": [
+        "node_modules",
+        "coverage",
+        "reports",
+        "**/*.json"
+    ]
+}
