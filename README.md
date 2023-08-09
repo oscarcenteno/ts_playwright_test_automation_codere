@@ -14,6 +14,16 @@ Supported browsers already configured:
 - Microsoft Edge
 - Google Chrome
 
+## Desktop and Mobile
+
+Sample test run on Google Chrome Desktop:
+
+![Sample test run on Google Chrome Desktop](docs/desktop.png)
+
+Sample test running on Safari emulating an iPhone 13:
+
+![Sample test run on iPhone 13](docs/mobile.png)
+
 ## Setup
 
 1. Install npm packages
